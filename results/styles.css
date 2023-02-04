@@ -44,7 +44,7 @@ body {
 
 .full {
     width: 664px;
-    color: #11c768;
+    //color: #11c768;
 }
 
 .lastDate {
@@ -61,7 +61,8 @@ body {
 }
 
 a {
-    color:MediumSeaGreen;
+    //color:MediumSeaGreen;
+    color:#39c477;
     text-decoration: underline;
 }
 
